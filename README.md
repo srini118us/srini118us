@@ -1,33 +1,33 @@
-# Srinivasa Dasari
+## Srini
 
-**SAP Solution Architect building agentic AI systems.**
+**Senior SAP Solution Architect**
+Enterprise AI and Data Architecture
 
-20 years of enterprise SAP experience. Postgraduate program in AI/ML from McCombs Business School, UT Austin (2026). Building at the SAP + AI intersection across Google Cloud, AWS, and native SAP AI platforms.
+I build enterprise AI on SAP landscapes, from S/4HANA and BTP through data platforms to agents that act with human approval.
 
-## Featured Work
+Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications, The University of Texas at Austin (McCombs School of Business), April 2026
 
-- **[SAP AI Journey](https://github.com/srini118us/sap-ai-journey)** — Enterprise AI engineering across SAP AI Core, Business Data Cloud, HANA Cloud, and Joule Studio: RAG on the HANA Cloud Vector Engine, agentic operations, MLOps, and MCP servers.
+**Works across:** SAP S/4HANA, SAP BTP, SAP AI Core, Generative AI Hub, Joule Studio, SAP Business Data Cloud, Datasphere, SAC, Databricks, Google Vertex AI, AWS Bedrock, Agentic AI, RAG, MCP, A2A.
 
-- **[Governed Multi-Agent Finance System](https://github.com/srini118us/databricks-journey)** — Databricks multi-agent architecture with SAP BDC integration, data-confidence governance, and a drift-monitoring harness. [Architecture write-up on Medium](https://medium.com/@nivasrini620/after-you-ship-the-agent-the-real-work-begins-a3bad4478131).
+### Featured end to end projects
 
-- **[SAP EWA Analyzer](https://github.com/srini118us/SAP-EWA-Analyzer)** — AI analysis of SAP EarlyWatch Alert reports using OpenAI Vision and semantic search.
+* [Quote to Order Agent](https://github.com/srini118us/quote-to-order-agent): Salesforce opportunity to SAP S/4HANA sales order, with a human approval boundary
+* [Procurement Risk Intelligence](https://github.com/srini118us/end-to-end-labs): one XGBoost model on SAP AI Core serving a Joule agent and Datasphere with SAC
+* [Agentic AP Automation](https://github.com/srini118us/agentic-ap-automation): LangGraph agent for supplier invoice processing on SAP BTP
 
-- **[Joule + AI Core + SHAP](https://medium.com/@nivasrini620/black-box-to-cfo-joule-ai-core-done-right-7f7d7dd996c8)** (Medium article) — CFO-grade explainability for AI on SAP BTP.
+More in [End to End Labs](https://github.com/srini118us/end-to-end-labs).
 
-## Focus Areas
+### Platform journeys
 
-**AI:** Agentic systems, multi-agent orchestration, advanced RAG, enterprise AI governance
+* [SAP AI Journey](https://github.com/srini118us/sap-ai-journey)
+* [SAP Datasphere, BDC, SAC](https://github.com/srini118us/sap-datasphere-portfolio)
+* [Databricks Journey](https://github.com/srini118us/databricks-journey)
+* [Vertex AI and GCP](https://github.com/srini118us/gcp-vertex-ai)
 
-**Frameworks & APIs:** LangGraph, LangChain, Google ADK, MCP, A2A, Claude API
+### Certifications
 
-**SAP:** S/4HANA, HANA Cloud, BTP, Datasphere, BDC, SAC, Joule, AI Core, ABAP SDK
+SAP BTP Solution Architect, SAP Business Data Cloud Associate, SAP Generative AI Developer
 
-**Cloud & Data Platforms:** Google Cloud / Vertex AI (primary), AWS, Databricks, BigQuery
+### Connect
 
-## Certifications
-
-SAP BTP Solution Architect · SAP Business Data Cloud · Gen AI Developer
-
----
-
-Atlanta, GA · [LinkedIn](https://www.linkedin.com/in/srinivas-dasari-62352332/)
+[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-NAME)
