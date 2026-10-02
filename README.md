@@ -1,7 +1,6 @@
 ## Srini
 
-**Senior SAP Solution Architect**
-Enterprise AI and Data Architecture
+**Senior SAP Solution Architect**<br>Enterprise AI and Data Architecture
 
 I build enterprise AI on SAP landscapes, from S/4HANA and BTP through data platforms to agents that act with human approval.
 
