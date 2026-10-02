@@ -29,4 +29,4 @@ SAP BTP Solution Architect, SAP Business Data Cloud Associate, SAP Generative AI
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-NAME)
+[LinkedIn](https://www.linkedin.com/in/srinivasadasari)
